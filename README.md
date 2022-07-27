@@ -2,5 +2,5 @@
 
 You can see the performance in the following video.
 
-[![Watch the video](http://img.youtube.com/vi/pUcVB80Z1DI/0.jpg)](http://www.youtube.com/watch?v=cpUcVB80Z1DI)
+[![Watch the video](http://img.youtube.com/vi/pUcVB80Z1DI/0.jpg)](http://www.youtube.com/watch?v=pUcVB80Z1DI)
 
